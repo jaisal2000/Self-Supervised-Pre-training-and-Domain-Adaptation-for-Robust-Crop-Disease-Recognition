@@ -1,0 +1,9 @@
+*.pt
+*.pth
+*.bin
+*.safetensors
+data/
+__pycache__/
+.ipynb_checkpoints/
+*.png
+!figures/*.png
